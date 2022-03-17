@@ -1,5 +1,6 @@
 My First Readme
-CreateD a new directory called 0x01-git in my alx-pre_course repo
+
+Created a new directory called 0x01-git in my alx-pre_course repo
 Included a non empty README.md in your directory at the root of my repository alx-pre_course and in the directory 0x01-git
 Inside 0x01-git:
   Creatd these directories at the root of the project: bash, c, js
