@@ -1,5 +1,4 @@
 My Second ReadMe
-
 Created these directories at the root of the project: bash, c, js
 Created these empty files:
   c/c_is_fun.c
